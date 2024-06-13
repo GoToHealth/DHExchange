@@ -1,4 +1,4 @@
-// Create a C++ program that implements the Diffie Hellman Exchange by:
+//Create a C++ program that implements the Diffie Hellman Exchange by:
 //Following the steps needed for a key exchange via the Diffie Hellman Exchange:
 //-Establish 2 users; Alice and Bob 
 //-Have Alice and Bob establish 2 values, p (prime number) and q (elements of this prime number never equal to p).
